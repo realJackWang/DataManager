@@ -1,9 +1,24 @@
-# 指导手册还在编写过程中，请稍后
+# 会员管理系统
 
-<p align="center" class="has-mb-6">
-<img class="not-gallery-item" height="90" src="https://github.com/skycity233/Markdown-Res/raw/master/ic_launcher_new.png">
-<br> DataManager<br>
-<a href="https://ppoffice.github.io/hexo-theme-icarus/">Preview</a> |
-<a href="https://github.com/ppoffice/hexo-theme-icarus/archive/master.zip">Download</a>
-<br>
-</p>
+## 一、新增会员
+
+
+## 二、删除会员
+
+
+## 三、消费
+
+
+## 四、充值
+
+
+## 五、搜索
+
+
+## 六、修改信息
+
+
+## 七、快捷操作
+
+
+## 八、更新软件
